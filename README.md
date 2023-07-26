@@ -1,4 +1,4 @@
-# testrepo
+# MyRepo
 
 ## Editing the file
 
